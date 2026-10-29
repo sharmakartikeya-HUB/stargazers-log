@@ -1,0 +1,29 @@
+[
+  {
+    "name": "ripgrep",
+    "owner": "BurntSushi",
+    "description": "A line-oriented search tool that recursively searches your current directory for a regex pattern.",
+    "language": "Rust",
+    "stars": 51700,
+    "url": "https://github.com/BurntSushi/ripgrep",
+    "starred_at": "2025-02-14"
+  },
+  {
+    "name": "fastapi",
+    "owner": "fastapi",
+    "description": "A modern, fast web framework for building APIs with Python.",
+    "language": "Python",
+    "stars": 85000,
+    "url": "https://github.com/fastapi/fastapi",
+    "starred_at": "2025-01-28"
+  },
+  {
+    "name": "d3",
+    "owner": "d3",
+    "description": "A JavaScript library for visualizing data with web standards.",
+    "language": "JavaScript",
+    "stars": 109000,
+    "url": "https://github.com/d3/d3",
+    "starred_at": "2024-12-09"
+  }
+]
